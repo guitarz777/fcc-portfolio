@@ -1,0 +1,73 @@
+body {
+  background: rgba(205, 233, 233, 1);
+}
+
+#welcome-section {
+  position: relative;
+  top: 55px;
+  min-height: 100vh;
+  max-height: 100vh;
+  background: rgb(86, 139, 171);
+}
+
+
+#message {
+  text-align: center;
+  position: relative;
+  top: 175px;
+}
+
+#headline {
+  color: rgb(4, 28, 4);
+
+}
+
+#scroll {
+  position: relative;
+  top: 80px;
+}
+
+#aboutMe {
+  position: relative;
+  text-align: center;
+  top: 60px;
+}
+
+#aboutMe p {
+  text-align: left;
+}
+
+#projects {
+  position: relative;
+  text-align: center;
+  top: 200px;
+  background: rgb(86, 139, 171);
+  padding: 50px;
+}
+
+.project-title {
+  color: black;
+  background: rgba(202, 194, 203, .75);
+  font-size: 28px;
+  font: 300;
+}
+
+#contactMe {
+  position: relative;
+  top: 190px;
+  text-align: center;
+  padding: 30px;
+
+}
+
+#contactPara {
+  text-align: left;
+  position: relative;
+  top: 25px;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+#icons {
+  font-size: 150px;
+}
